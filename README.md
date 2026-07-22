@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,50:0EA5E9,100:06B6D4&text=Naveen%20Bitsathy&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=VLSI%20Engineer%20%7C%20RTL%20Designer%20%7C%20FPGA%20Developer&descAlignY=58&descColor=dbeafe"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,50:0EA5E9,100:06B6D4&text=Naveenraj%20Senthilkumar&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=VLSI%20Engineer%20%7C%20RTL%20Designer%20%7C%20FPGA%20Developer&descAlignY=58&descColor=dbeafe"/>
 
 <br>
 
