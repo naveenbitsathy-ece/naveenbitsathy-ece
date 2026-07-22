@@ -103,19 +103,18 @@ My curiosity about how electronic devices work inspired me to explore hardware d
 I am currently focused on developing practical experience through FPGA-based projects while preparing for a career in the semiconductor industry.
 
 
-## Skills
+## ⚙️ RTL / FPGA Expertise
 
-- Verilog
-- SystemVerilog
-- RTL Design
-- Digital Design
-- FPGA Development
-- C Programming
-- Git & GitHub
-- Vivado
-- Quartus Prime
-
----
+| **Domain** | **Proficiency** | **Details** |
+|------------|-----------------|-------------|
+| **RTL Design** | Advanced | Developed synthesizable Verilog modules with a focus on modular architecture, timing-aware coding, and reusable RTL design practices. |
+| **FPGA Design** | Advanced | Implemented digital hardware designs on FPGA platforms using Vivado, including simulation, synthesis, implementation, and hardware validation. |
+| **Digital Logic Design** | Advanced | Strong understanding of combinational and sequential circuits, finite state machines, counters, registers, memories, and timing concepts. |
+| **FSM Design** | Advanced | Designed Moore and Mealy finite state machines for communication interfaces and digital control systems with optimized state transitions. |
+| **ASIC Design Flow** | Intermediate | Familiar with the RTL-to-GDSII design flow, including synthesis, floorplanning, placement, routing, and timing analysis using Cadence and Synopsys tools. |
+| **Functional Verification** | Intermediate | Experience writing simulation testbenches, debugging RTL functionality, analyzing waveforms, and validating hardware behavior. |
+| **Signal Processing** | Beginner | Currently implementing a hardware-based Moving Average Filter on FPGA to understand digital signal processing fundamentals and real-time data filtering. |
+| **Machine Learning** | Beginner | Learning the fundamentals of machine learning and exploring its applications in FPGA-based Edge AI and intelligent hardware systems. |
 ## 🎯 Current Focus
 
 ```text
