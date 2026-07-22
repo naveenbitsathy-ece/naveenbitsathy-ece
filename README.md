@@ -1,5 +1,48 @@
 # Hi, I'm Naveen 👋
 
+## 🛠️ Technical Skills
+
+### 💻 Languages
+
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+### 🔷 FPGA & RTL
+
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge)
+![Vitis HLS](https://img.shields.io/badge/Vitis_HLS-FFB000?style=for-the-badge)
+![Intel Quartus Prime](https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge)
+![ModelSim](https://img.shields.io/badge/ModelSim-008080?style=for-the-badge)
+![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-4B8BBE?style=for-the-badge)
+![GTKWave](https://img.shields.io/badge/GTKWave-5C2D91?style=for-the-badge)
+
+---
+
+### ⚙️ ASIC Design Flow
+
+![Synopsys Design Compiler](https://img.shields.io/badge/Synopsys_Design_Compiler-1E88E5?style=for-the-badge)
+![Synopsys VCS](https://img.shields.io/badge/Synopsys_VCS-1565C0?style=for-the-badge)
+![Cadence Genus](https://img.shields.io/badge/Cadence_Genus-D32F2F?style=for-the-badge)
+![Cadence Innovus](https://img.shields.io/badge/Cadence_Innovus-C2185B?style=for-the-badge)
+![Cadence Xcelium](https://img.shields.io/badge/Cadence_Xcelium-8E24AA?style=for-the-badge)
+![OpenLane](https://img.shields.io/badge/OpenLane-43A047?style=for-the-badge)
+![OpenROAD](https://img.shields.io/badge/OpenROAD-2E7D32?style=for-the-badge)
+![Yosys](https://img.shields.io/badge/Yosys-546E7A?style=for-the-badge)
+![Magic VLSI](https://img.shields.io/badge/Magic_VLSI-6D4C41?style=for-the-badge)
+
+---
+
+### 🔬 Areas of Interest
+
+![RTL Design](https://img.shields.io/badge/RTL_Design-3949AB?style=for-the-badge)
+![Digital Design](https://img.shields.io/badge/Digital_Design-00897B?style=for-the-badge)
+![Functional Verification](https://img.shields.io/badge/Functional_Verification-F57C00?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-FF9800?style=for-the-badge)
+![VLSI](https://img.shields.io/badge/VLSI-7B1FA2?style=for-the-badge)
+
 ## About Me
 
 I am an Electronics and Communication Engineering (ECE) student at Bannari Amman Institute of Technology with a strong interest in VLSI, Digital Design, and FPGA development.
