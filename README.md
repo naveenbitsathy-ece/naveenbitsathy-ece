@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E40AF,100:0EA5E9&text=Naveen%20Bitsathy&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=VLSI%20|%20RTL%20Design%20|%20FPGA&descAlignY=58&descColor=dbeafe"
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E40AF,100:0EA5E9&text=Naveenraj%20Senthilkumar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=VLSI%20|%20RTL%20Design%20|%20FPGA&descAlignY=58&descColor=dbeafe"
 
 <br>
 
@@ -25,11 +25,11 @@
 <img src="https://img.shields.io/badge/GitHub-naveenbitsathy--ece-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/naveenraj07/)">
 <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Bitsathy-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:naveenrajs1003@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
