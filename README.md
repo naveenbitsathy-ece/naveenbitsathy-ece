@@ -116,57 +116,33 @@ I am currently focused on developing practical experience through FPGA-based pro
 - Quartus Prime
 
 ---
+## 📡 Engineering Status
 
-## Projects
+```ini
+[Learning]
+✓ Verilog HDL
+✓ SystemVerilog
+✓ RTL Design
+✓ Computer Architecture
 
-- **1×3 Router Design** – RTL design and verification using Verilog.
-- **8-bit Computer Architecture** – Designed a simple processor with memory and control unit.
-- **Moving Average Filter on FPGA** – Implemented a hardware-based digital signal processing module.
-- **AD7991 I²C ADC Interface** – Developed an FPGA interface for ADC communication.
-- **DAC121S101 SPI DAC Interface** – Implemented an SPI-based DAC controller.
-- **Industrial Signal Processing using FPGA** – Audio and vibration signal processing for fault analysis.
-- **Edge AI-Based Vision-Guided SCARA Robotic System** *(Ongoing)* – FPGA-assisted intelligent inspection and automation.
+[Building]
+✓ Router 1×3
+✓ Moving Average Filter
+✓ ADC Interface
+✓ DAC Interface
 
----
+[Exploring]
+✓ Functional Verification
+✓ Synopsys Flow
+✓ Cadence Flow
+✓ OpenLane
+✓ RISC-V
 
-## Currently Learning
-
-- Advanced RTL Design
-- Computer Architecture
-- FPGA Design and Development
-- SystemVerilog
-- Functional Verification
-- UVM
-
----
-## 🎯 Current Focus
-
-```text
-📚 LEARNING
-├── Verilog HDL (Advanced RTL Design)
-├── SystemVerilog
-└── Digital Design
-
-🚀 BUILDING
-├── 1×3 Router
-├── 8-bit Computer Architecture
-├── FPGA Signal Processing
-└── ADC & DAC Interfaces
-
-🔬 EXPLORING
-├── Functional Verification
-├── ASIC Design Flow
-├── Synopsys Tools
-├── Cadence Tools
-└── RISC-V Architecture
-
-💼 OPEN TO
-├── VLSI Internships
-├── RTL Design Roles
-├── FPGA Development
-└── Research Collaborations
+[Career Goal]
+✓ VLSI Engineer
+✓ RTL Designer
+✓ FPGA Developer
 ```
-
 ## Career Goal
 
 To build a strong career in the semiconductor industry by designing reliable digital hardware systems and continuously learning advanced VLSI technologies.
