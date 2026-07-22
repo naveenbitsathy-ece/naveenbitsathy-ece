@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E40AF,100:0EA5E9&text=Naveenraj%20Senthilkumar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=VLSI%20|%20RTL%20Design%20|%20FPGA&descAlignY=58&descColor=dbeafe"
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=0:0F172A,50:2563EB,100:38BDF8&text=Naveen%20Bitsathy&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
