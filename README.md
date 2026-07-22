@@ -1,4 +1,46 @@
-# Hi, I'm Naveen 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0F172A,50:0EA5E9,100:06B6D4&text=Naveen%20Bitsathy&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=VLSI%20Engineer%20%7C%20RTL%20Designer%20%7C%20FPGA%20Developer&descAlignY=58&descColor=dbeafe"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Designing+Digital+Hardware...;RTL+Design+%7C+FPGA+Development;Verilog+%7C+SystemVerilog;Digital+Design+%7C+Computer+Architecture;Future+Semiconductor+Engineer"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/B.E.-Electronics%20%26%20Communication-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/College-Bannari%20Amman%20Institute%20of%20Technology-0369A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Country-India-0891B2?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Verilog-RTL%20Design-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-Learning-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA-Xilinx%20%7C%20Intel-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ASIC-Cadence%20%7C%20Synopsys-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Design-VLSI-0369A1?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/naveenbitsathy-ece">
+<img src="https://img.shields.io/badge/GitHub-naveenbitsathy--ece-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Naveen%20Bitsathy-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=naveenbitsathy-ece&style=for-the-badge&color=0EA5E9"/>
+
+</div>
+
+---
 ## 🚀 Technical Skills
 
 ### 💻 Languages
@@ -60,18 +102,6 @@ My curiosity about how electronic devices work inspired me to explore hardware d
 
 I am currently focused on developing practical experience through FPGA-based projects while preparing for a career in the semiconductor industry.
 
----
-## Tech Stack
-
-![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA-FF9800?style=for-the-badge)
-![RTL Design](https://img.shields.io/badge/RTL_Design-2E8B57?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Vivado-E60012?style=for-the-badge)
-![Quartus Prime](https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
 ## Skills
 
