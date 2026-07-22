@@ -116,33 +116,32 @@ I am currently focused on developing practical experience through FPGA-based pro
 - Quartus Prime
 
 ---
-## 📡 Engineering Status
+## 🎯 Current Focus
 
-```ini
-[Learning]
-✓ Verilog HDL
-✓ SystemVerilog
-✓ RTL Design
-✓ Computer Architecture
+```text
+📚 LEARNING
+├── Verilog HDL (Advanced RTL Design)
+├── SystemVerilog
+└── Digital Design
 
-[Building]
-✓ Router 1×3
-✓ Moving Average Filter
-✓ ADC Interface
-✓ DAC Interface
+🚀 BUILDING
+├── 1×3 Router
+├── 8-bit Computer Architecture
+├── FPGA Signal Processing
+└── ADC & DAC Interfaces
 
-[Exploring]
-✓ Functional Verification
-✓ Synopsys Flow
-✓ Cadence Flow
-✓ OpenLane
-✓ RISC-V
+🔬 EXPLORING
+├── Functional Verification
+├── ASIC Design Flow
+├── Synopsys Tools
+├── Cadence Tools
+└── RISC-V Architecture
 
-[Career Goal]
-✓ VLSI Engineer
-✓ RTL Designer
-✓ FPGA Developer
-```
-## Career Goal
+💼 OPEN TO
+├── VLSI Internships
+├── RTL Design Roles
+├── FPGA Development
+└── Research Collaborations
+```## Career Goal
 
 To build a strong career in the semiconductor industry by designing reliable digital hardware systems and continuously learning advanced VLSI technologies.
