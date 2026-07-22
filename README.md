@@ -142,6 +142,7 @@ I am currently focused on developing practical experience through FPGA-based pro
 ├── RTL Design Roles
 ├── FPGA Development
 └── Research Collaborations
-```## Career Goal
+```
+## Career Goal
 
 To build a strong career in the semiconductor industry by designing reliable digital hardware systems and continuously learning advanced VLSI technologies.
