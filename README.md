@@ -9,6 +9,17 @@ My curiosity about how electronic devices work inspired me to explore hardware d
 I am currently focused on developing practical experience through FPGA-based projects while preparing for a career in the semiconductor industry.
 
 ---
+## Tech Stack
+
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00599C?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-FF9800?style=for-the-badge)
+![RTL Design](https://img.shields.io/badge/RTL_Design-2E8B57?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-E60012?style=for-the-badge)
+![Quartus Prime](https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
 ## Skills
 
