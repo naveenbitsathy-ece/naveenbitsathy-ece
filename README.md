@@ -139,59 +139,33 @@ I am currently focused on developing practical experience through FPGA-based pro
 - UVM
 
 ---
+## 🎯 Current Focus
 
-## 🚀 Featured Projects
+```text
+📚 LEARNING
+├── Verilog HDL (Advanced RTL Design)
+├── SystemVerilog
+└── Digital Design
 
-### 📦 1×3 Router Design
-**RTL Design | Verilog | Functional Verification**
-- Designed and verified a 1×3 packet router using Verilog.
-- Implemented FIFO, FSM, synchronizer, and register modules.
-- Verified packet routing functionality through simulation.
+🚀 BUILDING
+├── 1×3 Router
+├── 8-bit Computer Architecture
+├── FPGA Signal Processing
+└── ADC & DAC Interfaces
 
----
+🔬 EXPLORING
+├── Functional Verification
+├── ASIC Design Flow
+├── Synopsys Tools
+├── Cadence Tools
+└── RISC-V Architecture
 
-### 🖥️ 8-bit Computer Architecture
-**Computer Architecture | Verilog**
-- Designed an 8-bit processor with ALU, Program Counter, Memory, and Control Unit.
-- Implemented a custom instruction set architecture (ISA).
-- Simulated instruction execution and processor operation.
-
----
-
-### 📊 Moving Average Filter on FPGA
-**FPGA | Digital Signal Processing**
-- Designed a hardware-based moving average filter using Verilog.
-- Processed sampled ADC data for noise reduction.
-- Verified functionality through FPGA simulation.
-
----
-
-### 📡 AD7991 I²C ADC Interface
-**FPGA | I²C Protocol**
-- Developed an I²C controller to interface the AD7991 Analog-to-Digital Converter.
-- Implemented FSM-based communication and data acquisition.
-
----
-
-### 🎛️ DAC121S101 SPI DAC Interface
-**FPGA | SPI Protocol**
-- Designed an SPI controller for DAC121S101.
-- Generated digital-to-analog output using FPGA.
-
----
-
-### 🎤 Industrial Signal Processing using FPGA
-**FPGA | DSP**
-- Developed an FPGA-based signal processing system for audio and vibration analysis.
-- Applied digital filtering techniques for signal conditioning.
-
----
-
-### 🤖 Edge AI Vision-Guided SCARA Robot *(Ongoing)*
-**FPGA | Edge AI | Computer Vision**
-- Developing an intelligent inspection system using FPGA acceleration and computer vision.
-- Integrating object detection with an automated SCARA robotic platform.
-
+💼 OPEN TO
+├── VLSI Internships
+├── RTL Design Roles
+├── FPGA Development
+└── Research Collaborations
+```
 
 ## Career Goal
 
