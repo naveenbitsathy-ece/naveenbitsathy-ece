@@ -45,6 +45,7 @@
 ### 💻 Languages
 
 ![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white)
+![Advanced Verilog](https://img.shields.io/badge/AdvancedVerilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=red)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-6A5ACD?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
