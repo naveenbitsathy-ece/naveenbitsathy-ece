@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Designing+Digital+Hardware...;RTL+Design+%7C+FPGA+Development;Verilog+%7C+SystemVerilog;Digital+Design+%7C+Computer+Architecture;Future+Semiconductor+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Designing+Digital+Hardware...;RTL+Design+%7C+FPGA+Development;Verilog+%7C+SystemVerilog;Digital+Design+%7C+Computer+Architecture;Future+Semiconductor+Engineer;Digital signal processing"/>
 
 <br><br>
 
