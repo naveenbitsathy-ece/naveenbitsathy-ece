@@ -97,11 +97,13 @@
 
 ## About Me
 
-I am an Electronics and Communication Engineering (ECE) student at Bannari Amman Institute of Technology with a strong interest in VLSI, Digital Design, and FPGA development.
+I am an Electronics and Communication Engineering student at Bannari Amman Institute of Technology, passionate about **VLSI Design, Digital Systems, FPGA Development, and Digital Signal Processing**.
 
-My curiosity about how electronic devices work inspired me to explore hardware design and semiconductor technology. I enjoy learning new concepts, building hardware projects, and improving my skills in RTL design and digital systems.
+Driven by curiosity about how hardware works at the fundamental level, I enjoy exploring semiconductor technologies, designing digital systems, and translating theoretical concepts into practical hardware implementations. I have hands-on project experience in Verilog HDL, RISC-V architecture, FPGA-based signal processing, and hardware acceleration.
 
-I am currently focused on developing practical experience through FPGA-based projects while preparing for a career in the semiconductor industry.
+Currently, I am strengthening my technical expertise in RTL design, SystemVerilog, FPGA development, and digital hardware implementation while continuously exploring emerging technologies in the semiconductor industry.
+
+**My goal is to contribute to innovative hardware solutions and build a career in VLSI and semiconductor design.**
 
 
 ## ⚙️ RTL / FPGA Expertise
