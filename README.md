@@ -90,7 +90,7 @@
 
 ![RTL Design](https://img.shields.io/badge/RTL_Design-3949AB?style=for-the-badge)
 ![Digital Design](https://img.shields.io/badge/Digital_Design-00897B?style=for-the-badge)
-![Digital signal processing](https://img.shields.io/badge/Digital_signal_processing-00897B?style=for-the-badge)
+![Digital signal processing](https://img.shields.io/badge/Digital_signal_processing-00897A?style=for-the-badge)
 ![Functional Verification](https://img.shields.io/badge/Functional_Verification-F57C00?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-FF9800?style=for-the-badge)
 ![VLSI](https://img.shields.io/badge/VLSI-7B1FA2?style=for-the-badge)
